@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{1d1178d8-5011-4618-85c7-a5f27b850f61}">
+		<property name="assetPath">
+			<value>Electricity, Electro Magnetic Interference 05 SND37279 4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.2640520833333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cda4a9c5-e79f-4e4c-9ab1-ef67a5e0e6ee}</destination>
+		</relationship>
+	</object>
+</objects>

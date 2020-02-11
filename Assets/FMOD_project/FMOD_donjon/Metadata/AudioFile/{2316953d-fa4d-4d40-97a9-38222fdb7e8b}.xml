@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{2316953d-fa4d-4d40-97a9-38222fdb7e8b}">
+		<property name="assetPath">
+			<value>ratAnimal, Rodent, Mouse, Rat, Squeaks SND14864-004.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.030498866213151926</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cda4a9c5-e79f-4e4c-9ab1-ef67a5e0e6ee}</destination>
+		</relationship>
+	</object>
+</objects>

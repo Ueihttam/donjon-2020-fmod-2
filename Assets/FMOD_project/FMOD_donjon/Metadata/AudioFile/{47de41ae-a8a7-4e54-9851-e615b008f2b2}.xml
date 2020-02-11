@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{47de41ae-a8a7-4e54-9851-e615b008f2b2}">
+		<property name="assetPath">
+			<value>Weather, Thunder Clap, Heavy Impact, Dark, Gritty 01 SND12975.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.1298124999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cda4a9c5-e79f-4e4c-9ab1-ef67a5e0e6ee}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{596cd820-5d6b-4e4f-8582-dcb6fb4dd2e2}">
+        <property name="assetPath">
+            <value>Tirs D'artillerie__r128.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>9.4427664399092972</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{cda4a9c5-e79f-4e4c-9ab1-ef67a5e0e6ee}</destination>
+        </relationship>
+    </object>
+</objects>
